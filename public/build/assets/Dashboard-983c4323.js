@@ -1,0 +1,1 @@
+import{j as e}from"./app-b5e99642.js";const s=()=>e.jsxs("div",{children:[e.jsx("h1",{children:"I'm Dashbard"}),e.jsx("p",{children:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id repudiandae quasi maxime error? Aperiam qui eum dolor repudiandae dolore beatae architecto nisi quas voluptas ea. Ipsum odit possimus facilis consectetur?"})]});export{s as default};

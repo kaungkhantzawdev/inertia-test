@@ -1,0 +1,18 @@
+{
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard-983c4323.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dashboard.jsx"
+  },
+  "resources/js/app.jsx": {
+    "dynamicImports": [
+      "resources/js/Pages/Dashboard.jsx"
+    ],
+    "file": "assets/app-b5e99642.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  }
+}
